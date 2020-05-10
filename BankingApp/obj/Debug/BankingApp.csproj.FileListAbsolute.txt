@@ -1,0 +1,12 @@
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.cache
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.Login.resources
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.Registration.resources
+C:\Users\dwbid\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.Mainmenu.resources
